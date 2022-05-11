@@ -1,3 +1,5 @@
+![dyrector.io devops challange](assets/cover.jpeg "dyrector.io devops challange")
+
 # dyrector.io devops challenge
 
 You received a task of containerizing an application.
