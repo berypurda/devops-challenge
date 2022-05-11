@@ -1,4 +1,4 @@
-# dyrector.io assesment
+# dyrector.io devops challenge
 
 You received a task of containerizing an application.
 
